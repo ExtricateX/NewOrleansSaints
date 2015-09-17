@@ -1,2 +1,2 @@
-# winter2015-lab02
-Starter project for Tutorial 2C
+# Comp4711_Lab02
+Lab02
