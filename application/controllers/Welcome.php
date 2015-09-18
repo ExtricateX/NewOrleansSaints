@@ -23,7 +23,7 @@ class Welcome extends Application {
             $pix = $this->images->newest();
             
             foreach($pix as $pictures)
-                $cells[] = $this->parser->parse('_cell', (array)$picture, true);
+                $cells[] = $this->parser->parse('_cell', (array)$pictures, true);
             
             $this->load->library('table');
             $parms = array(
