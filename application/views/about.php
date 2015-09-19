@@ -1,4 +1,3 @@
-
 <h1>About This Site</h1>
 <p>This is a really simple image gallery, intended as more than a "hello world" example'
     to be implemented using different MVC frameworks, so they can be compared.</p>
